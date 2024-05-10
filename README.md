@@ -5,8 +5,7 @@ GIF
 ![Demonstration](img/pvz.gif)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 ![Simulation](img/game.png)
 
 
