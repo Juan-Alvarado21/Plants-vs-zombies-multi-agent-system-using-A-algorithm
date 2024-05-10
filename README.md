@@ -4,4 +4,7 @@ This program based on plants vs zombies simulates the problem of the sample coll
 
 ![Simulation](img/game.png)
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
 ![Demonstration](img/pvz.gif)
