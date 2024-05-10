@@ -1,5 +1,5 @@
 # Plants-vs-zombies-multi-agent-system-using-A-algorithm
-This program based on plants vs zombies simulates the problem of the sample collecting robot (multi-agent system) proposed to be carried out with the A* informed search algorithm where the samples will be found and grouped into clusters, using crumbs to trace the path to the ship. and describe the collaboration between agents.
+This program, based on Plants vs. Zombies, simulates the problem of the sample-collecting robot (multi-agent system) proposed to be addressed using the A* informed search algorithm. In this system, samples are found and grouped into clusters, using crumbs to trace the path back to the ship, and the collaboration between agents is described.
 
 ![Simulation](img/game2.png)
 &nbsp;&nbsp;&nbsp;
